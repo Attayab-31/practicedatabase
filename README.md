@@ -64,3 +64,7 @@ The Patient Record Management System is a Java-based application built to manage
 ## Contributing
 Contributions are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+## Author
+Muhammad Attayab Ashraf
+F2021065194@umt.edu.pk
++923174026038
